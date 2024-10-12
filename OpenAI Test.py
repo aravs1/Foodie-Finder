@@ -3,6 +3,7 @@ import openai
 # Function to initiate a real-time conversation with the model
 def start_conversation():
     # Set your OpenAI API key
+    openai.api_key = "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"
 
     # Start the conversation history with an initial system message
     conversation_history = [
