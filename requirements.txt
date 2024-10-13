@@ -6,5 +6,3 @@ spacy
 openai
 spacy
 requests
-os
-
