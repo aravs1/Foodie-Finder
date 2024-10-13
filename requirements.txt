@@ -6,3 +6,4 @@ spacy
 openai
 spacy
 requests
+dotenv
