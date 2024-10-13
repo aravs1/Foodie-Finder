@@ -1,4 +1,3 @@
-!pip install requirements.txt
 import pandas as pd
 import streamlit as st
 from llama_index.core import Document, VectorStoreIndex
