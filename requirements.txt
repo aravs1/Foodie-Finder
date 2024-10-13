@@ -1,0 +1,12 @@
+llama-index
+streamlit
+pandas
+numpy
+spacy
+openai
+spacy
+requests
+time
+speech_recognition
+os
+
