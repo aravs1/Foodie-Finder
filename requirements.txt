@@ -6,6 +6,5 @@ spacy
 openai
 spacy
 requests
-speech_recognition
 os
 
