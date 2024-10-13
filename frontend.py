@@ -6,12 +6,11 @@ import os
 import requests
 import pandas as pd
 import time
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
-# Set your OpenAI API key
+# # Set your OpenAI API key
 openai.api_key = os.getenv("OPENAI_API_KEY")
-
 # Example DataFrame with restaurant data
 
 df = pd.read_csv("/Users/kirindesai/Desktop/Foodie-Finder/berkeley50.csv")
